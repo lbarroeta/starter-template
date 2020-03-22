@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2d2b391-6219-401b-8315-65c8a644fcd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584851491683</updated>
-      <workItem from="1584851494112" duration="8370000" />
+      <workItem from="1584851494112" duration="8467000" />
     </task>
     <servers />
   </component>
@@ -172,9 +169,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="625" height="500" key="SwitcherDM/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584857916123" />
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584859421728">
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584860158572">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584859421728" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584860158572" />
   </component>
 </project>
