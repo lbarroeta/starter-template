@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d2b391-6219-401b-8315-65c8a644fcd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dashboard-template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/commons/dashboards_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/commons/sessions_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/_top-nav.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/dashboard.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/sessions/login.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/webpack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/webpack-dev-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/development.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/environment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/production.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpacker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584851491683</updated>
-      <workItem from="1584851494112" duration="7397000" />
+      <workItem from="1584851494112" duration="8370000" />
     </task>
     <servers />
   </component>
@@ -191,9 +172,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="625" height="500" key="SwitcherDM/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584857916123" />
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584857238631">
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584859421728">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584857238631" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584859421728" />
   </component>
 </project>

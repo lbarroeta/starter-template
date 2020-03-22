@@ -37,13 +37,17 @@
 // Bottom navbar
 //
 
+.bottom-nav {
+  margin-top: .5rem;
+}
+
 .bottom-nav-items {
   padding: 0 10rem;
 
   box-shadow: none !important;
 
   @media screen and (max-width: 768px) {
-    margin: .5rem -1rem 5rem -1rem !important;
+    margin: 0 -1rem 5rem -1rem !important;
     padding: 0;
 
   }
