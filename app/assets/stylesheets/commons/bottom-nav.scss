@@ -1,0 +1,35 @@
+.bottom-nav {
+  margin-top: .5rem;
+}
+
+.bottom-nav-items {
+  padding: 0 10rem;
+
+  box-shadow: none !important;
+
+  @media screen and (max-width: 768px) {
+    margin: 0 -1rem 5rem -1rem !important;
+    padding: 0;
+
+  }
+
+  .item {
+    border: none !important;
+  }
+}
+
+.bottom-nav-items.ui.menu .item:before {
+  content: none !important;
+}
+
+.bottom-nav-button {
+  background-color: transparent !important;
+  color: black !important;
+  font-weight: normal !important;
+  /*padding: 0 !important;*/
+}
+
+.bottom-nav-dropdown.item:hover {
+  background-color: rgba(34, 36, 38, 0.1) !important;
+  border-radius: 0 !important;
+}

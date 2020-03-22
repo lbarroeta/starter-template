@@ -1,0 +1,24 @@
+<table class="ui single line center aligned table">
+  <thead>
+  <tr>
+    <th>Username</th>
+    <th>Options</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @users.each do |user| %>
+    <tr>
+      <%= render partial: 'commons/dashboards/dashboard/table_rows', locals: {user: user} %>
+    </tr>
+  <% end %>
+  </tbody>
+  <tfoot>
+  <tr>
+    <th colspan="5">
+      <div class="ui right floated pagination menu">
+        <%== pagy_semantic_nav(@pagy) %>
+      </div>
+    </th>
+  </tr>
+  </tfoot>
+</table>

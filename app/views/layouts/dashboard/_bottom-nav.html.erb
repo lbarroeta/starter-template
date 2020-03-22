@@ -3,12 +3,37 @@
     <div class="column">
       <div class="bottom-nav-items ui stackable menu">
 
-        <%= link_to 'Option 1', '#', class: 'item' %>
-        <%= link_to 'Option 2', '#', class: 'item' %>
-        <%= link_to 'Option 3', '#', class: 'item' %>
-        <%= link_to 'Option 4', '#', class: 'item' %>
+        <!--Button with dropdown-->
+        <div class="bottom-nav-dropdown item">
+          <div class="ui hidden divider"></div>
+          <div class="bottom-nav-button ui dropdown button">
+            <div class="text">Go to</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <a class="item" href="#link1"><i class="home icon"></i> Home</a>
+              <a class="item" href="#link2"><i class="users icon"></i> Browse</a>
+              <a class="item" href="#link3"><i class="search icon"></i> Search</a>
+            </div>
+          </div>
+        </div>
+
+        <!--Single button-->
+        <div class="bottom-nav-dropdown item">
+          <div class="ui hidden divider"></div>
+          <div class="bottom-nav-button ui button">
+            <div class="text">Go to</div>
+          </div>
+        </div>
 
       </div>
     </div>
   </div>
 </div>
+
+<style>
+
+
+    /*.bottom-nav-button .menu.transition.visible {*/
+    /*  margin-left: -1rem !important;*/
+    /*}*/
+</style>

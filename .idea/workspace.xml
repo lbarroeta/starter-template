@@ -2,12 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d2b391-6219-401b-8315-65c8a644fcd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/leonardobarroeta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/body-content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/bottom-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/top-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/admin.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/admin/user.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard/_statistics.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard/_table.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard/_table_rows.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/initializers/pagy.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20200322191300_create_admin_users.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/admin/users.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/admin/user_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dashboard-template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dashboard-template.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/commons/dashboard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/commons/dashboards_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/commons/dashboards_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/dashboards/dashboard.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/_bottom-nav.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/dashboard/dashboard.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/dashboard/dashboard.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Rails dashboard-template: development" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Rails dashboard-template: development" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,7 +201,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584851491683</updated>
-      <workItem from="1584851494112" duration="8467000" />
+      <workItem from="1584851494112" duration="8689000" />
+      <workItem from="1584902608274" duration="3918000" />
     </task>
     <servers />
   </component>
@@ -161,17 +213,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584857333126">
+    <state x="360" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584903978024">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="360" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584857333126" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1584857916123">
+    <state x="360" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584903978023" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1584904104048">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584857916123" />
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584860158572">
+    <state width="625" height="500" key="SwitcherDM/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584904104048" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1584904901499">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584860158572" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/1792.23.1440.877/0.23.1792.1097@0.23.1792.1097" timestamp="1584904901499" />
   </component>
 </project>
